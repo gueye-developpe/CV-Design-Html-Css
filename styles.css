@@ -199,3 +199,11 @@ flex-direction: column;
     color: #fff;
     margin-right: 0;
 }
+p
+{ 
+    font-style: 300;
+}
+.rightSide
+{ 
+    padding-left: 40px; 
+}
